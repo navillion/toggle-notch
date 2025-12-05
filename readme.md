@@ -1,5 +1,5 @@
 # Toggle MacBook Notch
-This SwiftBar script will make it easy to toggle your MacBook's notch!
+This SwiftBar script will make it easy to toggle your MacBook's notch, by adding a toggle button to your Menu Bar!
 
 ## Installation
 1. You have to install **SwiftBar** and **DisplayPacer** with `brew install displayplacer` and `brew install swiftbar`
