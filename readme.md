@@ -9,3 +9,6 @@ This SwiftBar script will make it easy to toggle your MacBook's notch!
 
 ## Customization
 - You can change the default configs in the script. Everything is pretty self-explanatory
+
+## Permissions
+- You might have to do `chmod +x multi-selections.10s.sh` to make the script executable.
